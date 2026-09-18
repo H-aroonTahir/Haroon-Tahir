@@ -24,7 +24,7 @@
 <br>
 
 [![Email](https://img.shields.io/badge/Email-h.aroontahir%40gmail.com-2563EB?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:h.aroontahir@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Haroon-Tahir)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Haroon-tahir)
 
 </div>
 
@@ -397,13 +397,13 @@ Eventually, I want to combine these perspectives to build technology that is not
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Haroon-Tahir&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Haroon-tahir&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haroon-tahir&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Haroon-tahir&theme=tokyonight&hide_border=true&background=0D1117" />
 
 </div>
 
