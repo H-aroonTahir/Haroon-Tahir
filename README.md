@@ -382,13 +382,13 @@ Eventually, I want to combine these perspectives to build technology that is not
 │                  CURRENT FOCUS                      │
 ├─────────────────────────────────────────────────────┤
 │                                                     │
-│  ████████████████████  C Programming               │
-│  ████████████████████  Problem Solving             │
-│  ██████████████████░░  Logic Building              │
-│  ███████████████░░░░░  Programming Fundamentals    │
-│  ████████░░░░░░░░░░░░  Data Structures             │
-│  █████░░░░░░░░░░░░░░░  Software Engineering        │
-│  ████░░░░░░░░░░░░░░░░  Data Science                │
+│  ████████████████████  C Programming                │
+│  ████████████████████  Problem Solving              │
+│  ██████████████████░░  Logic Building               │
+│  ███████████████░░░░░  Programming Fundamentals     │
+│  ████████░░░░░░░░░░░░  Data Structures              │
+│  █████░░░░░░░░░░░░░░░  Software Engineering         │
+│  ████░░░░░░░░░░░░░░░░  Data Science                 │
 │                                                     │
 └─────────────────────────────────────────────────────┘
 ```
@@ -397,19 +397,17 @@ Eventually, I want to combine these perspectives to build technology that is not
 
 # 📊 GitHub Activity
 
+📈 My github activity is a proof to my commitment and abilities. I am active on github building new codes, practicing diverse projects, and ultimately connect with potential employers.
+
+Explore my GitHub activity to see what I’m learning, building, and working on as I grow as a developer. 💻✨
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Haroon-tahir&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haroon-tahir&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Haroon-tahir&theme=tokyonight&hide_border=true&background=0D1117" />
+<a href="https://github.com/Haroon-tahir?tab=activity">
+  <img src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB%20ACTIVITY-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore My GitHub Activity">
+</a>
 
 </div>
-
----
 
 # 📚 What You'll Find Here
 
