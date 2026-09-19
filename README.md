@@ -5,7 +5,8 @@
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<div align="center">
+<img width="2048" height="768" alt="Github_Banner" src="https://github.com/user-attachments/assets/98f7861f-f6c6-46b4-bee0-760f339ac179" />
+
 
 # 👋 Hey, I'm **Haroon Tahir**
 
