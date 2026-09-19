@@ -12,7 +12,6 @@
 
 ### `Computer Science Student` • `Problem Solver` • `Aspiring Software Engineer` • `Future Data Scientist`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=180&section=header&text=BUILD%20%E2%80%A2%20LEARN%20%E2%80%A2%20EVOLVE&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <p>
   <b>🎓 1st Semester BSc Computer Science</b> @ FAST University
@@ -45,6 +44,8 @@ This GitHub is the beginning of that journey.
 
 > **I don't want this profile to show only where I am.
 > I want it to document how far I eventually go.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=180&section=header&text=BUILD%20%E2%80%A2%20LEARN%20%E2%80%A2%20EVOLVE&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 ---
 
